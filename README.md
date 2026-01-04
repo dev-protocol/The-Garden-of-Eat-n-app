@@ -60,8 +60,6 @@ Stay informed about your order status and reservation confirmations without open
 
 ---
 
-## 🧑‍💻 Developer
-
-**Mpayimana Cyiza Landry**  
-Senior Software Engineer — **Dev Protocol**
+## 🧑‍💻 APP Store and Play Store
+Type: Garden of Eat'n 
 ---
