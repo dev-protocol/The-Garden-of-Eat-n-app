@@ -1,4 +1,4 @@
-# 🍽️ Garden of Eat'n — Smart Restaurant App
+# 🍽️ Garden of Eat'n - Smart Restaurant App
 
 <p align="center">
   <!-- 👤 PROFILE PICTURE PLACEHOLDER -->
@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Mpayimana Cyiza Landry</b><br/>
-  Senior Software Engineer — Dev Protocol
+  Senior Software Engineer - Dev Protocol
 </p>
 
 ---
@@ -23,7 +23,7 @@ From discovering delicious meals to tracking your order in real-time, the app br
 ## ✨ What Users Can Do
 
 ### 🧾 Browse the Menu  
-Explore the restaurant’s full menu with beautiful categories, clear descriptions, and pricing — all in one place.
+Explore the restaurant’s full menu with beautiful categories, clear descriptions, and pricing - all in one place.
 
 ### 🛒 Place Orders  
 Select your favorite meals, customize your order, add to cart, and place your order in seconds.
@@ -34,7 +34,7 @@ Watch your order move from:
 with live updates on your screen.
 
 ### 🪑 Make Table Reservations  
-Reserve a table by choosing your preferred date, time, and number of guests — no phone calls required.
+Reserve a table by choosing your preferred date, time, and number of guests - no phone calls required.
 
 ### 📲 Get Instant Notifications  
 Stay informed about your order status and reservation confirmations without opening the app repeatedly.
